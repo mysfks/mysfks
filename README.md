@@ -4,7 +4,7 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> About Me
 
-<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Jnb2tnNmN0ZDAzOGw0a3FmM2M0cW5rMGd3ZHF6ZmJrMGRhaWJhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hL9q5k9dk9l0wGd4e0/giphy.gif" width="200px"></picture>
+
 <br>
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
