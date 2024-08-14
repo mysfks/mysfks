@@ -19,7 +19,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=python,c,cpp,docker,linux,mongodb,css,html,java,javascript,git,github," />
+  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=ai,python,c,cpp,docker,linux,mongodb,css,html,java,javascript,git,github," />
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/g71crS1/niko-oneshot.gif">
 </div>
 <hr>
