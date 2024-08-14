@@ -19,18 +19,18 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,vue,html,css,nodejs,python,unity,firebase,git,github,postman,bootstrap" />
+  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=python,c,c++,css,html,java,javascript,unity,firebase,git,github,," />
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/g71crS1/niko-oneshot.gif">
 </div>
 <hr>
 <div> 
-  <a href="mailto:afnamal15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/a-faruk-namal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:myusufaksu0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/myusufaksu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <br><br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/afnamal/count.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/mysfks/count.svg" alt="Profile Views" />
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=120&section=footer"/>
