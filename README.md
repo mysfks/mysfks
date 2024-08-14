@@ -9,10 +9,10 @@
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
     <ul style="list-style: none; padding: 0;">
-      <li><strong>Fullstack Web Developer</strong></li>
+      <li><strong>Artificial Intelligence Engineer</strong></li>
       <li>Experienced in developing practical projects independently and with teams</li>
-      <li>Proficient in Vue.js, React, HTML, CSS, JavaScript, and backend technologies</li>
-      <li>Passionate about artificial intelligence and neural networks</li>
+      <li>Experienced in Python, C, C++, HTML, CSS, JavaScript, and some Backend Technologies</li>
+      <li>Passionate about Artificial Intelligence and Neural Networks</li>
     </ul>
   </div>
 </div>
