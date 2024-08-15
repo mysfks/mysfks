@@ -11,7 +11,7 @@
     <ul style="list-style: none; padding: 0;">
       <li><strong>Artificial Intelligence Engineer</strong></li>
       <li>Experienced in developing practical projects independently and with teams</li>
-      <li>Experienced in Python, C, C++, HTML, CSS, JavaScript, and some Backend Technologies</li>
+      <li>Experienced in Python, C, C++, HTML, CSS, JavaScript and some Backend Technologies</li>
       <li>Passionate about Artificial Intelligence and Neural Networks</li>
     </ul>
   </div>
