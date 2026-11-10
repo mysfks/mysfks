@@ -13,6 +13,12 @@
 </p>
 
 <!-- repos:start -->
+<p align="center">
+<a href="https://github.com/mysfks/Fire-Detection"><img src="cards/repo-1.svg" width="49.5%" alt="Fire-Detection"></a>
+<a href="https://github.com/mysfks/Text-Classification-with-PySpark"><img src="cards/repo-2.svg" width="49.5%" alt="Text-Classification-with-PySpark"></a>
+<a href="https://github.com/mysfks/audio-to-text-and-summary"><img src="cards/repo-3.svg" width="49.5%" alt="audio-to-text-and-summary"></a>
+<a href="https://github.com/mysfks/object_detection_with_yolo"><img src="cards/repo-4.svg" width="49.5%" alt="object_detection_with_yolo"></a>
+</p>
 <!-- repos:end -->
 
 <p align="center">
